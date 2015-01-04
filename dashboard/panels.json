@@ -1,7 +1,7 @@
 [
   {
-    "name": "ozf-summer-cup-scoreboard",
-    "title": "Scoreboard",
+    "name": "ozf-summer-cup-meta",
+    "title": "Meta",
     "width": 2,
     "file": "panel.jade",
     "faIcon": "fa-list"

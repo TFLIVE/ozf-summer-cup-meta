@@ -1,5 +1,5 @@
 {
-  "name": "ozf-summer-cup-scoreboard",
+  "name": "ozf-summer-cup-meta",
   "version": "0.0.1",
   "nodecgDependency": "^0.3.0",
   "homepage": "http://www.tflive.tv/",
@@ -7,9 +7,9 @@
     "James McMinn <james.mcminn96@gmail.com>",
     "Russell Ng (graphics) <russelldanielng@gmail.com>"
   ],
-  "description": "Sits center top and has scores",
+  "description": "Meta 'wings' on the side of the clock",
   "resolutions": [
-    "720p"
+    "1080p"
   ],
   "license": "MIT"
 }
